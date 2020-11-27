@@ -8,5 +8,5 @@
   * Iris 데이터 분석해보기: [LINK](https://pjs0418.github.io/AI_Start/Untitled.html)
   
 ### 공공 데이터 분석
-  * 내용 : folium를 활용한 지도 시각화 - 부산광역시 100개의 횡단보도 위치 확인해 보기
+  * 내용 : folium를 활용한 지도 시각화 - 경기도 의정부시 정류장 100개의 위치 확인해 보기
   * 데이터 불러와 탐색해 보기 - [LINK](https://pjs0418.github.io/AI_Start/의정부.html)
